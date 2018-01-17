@@ -4,16 +4,19 @@
 }
 
 body {
-	background-image: url('https://static.pexels.com/photos/214239/pexels-photo-214239.jpeg');
+	background-image: url("https://images.pexels.com/photos/214238/pexels-photo-214238.jpeg?w=940&h=650&auto=compress&cs=tinysrgb");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
 }
 
 .top {
-	background-color: red;
+	background-color: darkred;
 	color: white;
 	padding-top: 30px;
 	padding-bottom: 20px;
+	font-family: 'Russo One', sans-serif;
 }
 
 #day {
@@ -21,6 +24,10 @@ body {
 	margin: 0 auto;
 	text-align: center;
 	padding: 50px;
+	color: white;
+	font-family: 'Gloria Hallelujah', cursive;
+
+
 }
 
 .btn {

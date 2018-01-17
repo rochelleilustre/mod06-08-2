@@ -16,7 +16,12 @@ require_once 'assets/lib/twelve_days.php';
 
 	<title><?php echo getTitle(); ?> Lyrics</title>
 
+	<link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah" rel="stylesheet">
+
+	<link href="https://fonts.googleapis.com/css?family=Russo+One" rel="stylesheet">
+
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+
 
 </head>
 <body>
